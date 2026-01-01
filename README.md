@@ -54,7 +54,6 @@ Mode: App Normal
 
 ## Analysis of Ateam BL3000HM
 In another project, **[CA8271x](https://github.com/YuukiJapanTech/CA8271x)** analysis of the _Ateam BL3000HM—an integrated ONU + HGW device—revealed_ an interesting ELF file with supplicant in its name.
-(The BL3000HM uses an AES-encrypted rootfs. Methods for obtaining the rootfs and shell access are not disclosed here.)
 ```
 root@ATERM-001122:~# m
 make_8021x_wired_conf
